@@ -1,13 +1,14 @@
-# Hey, I'm Hasan from Cologne👋
+# Hey, ich bin Hasan 👋
+# Hey, I'm Hasan 👋
 
-🤖 AI & Algorithmic Trading Developer | KI & Algorithmischer Trading-Entwickler
-📍 Cologne, Germany
+🤖 AI & Algorithmic Trading Developer | KI & Algorithmischer Trading-Entwickler  
+📍 Dortmund, Germany
 
 ---
 
-## 🚀 Projects
+## 🚀 Projekte / Projects
 
-- 🔥 **[botUNIX](https://github.com/Code-1-ai/botUNIX-github)** — Flask-based crypto futures trading bot mit LightGBM Signals, Web-Dashboard & Docker
+- 🔥 **[botUNIX](https://github.com/Code-1-ai/botUNIX-github)** — Flask-based crypto futures trading bot with LightGBM signals, web dashboard & Docker
 - 🤖 **sol-trading-bot** — KI-basierter Trading Bot / AI-based Trading Bot
 
 ---
@@ -25,14 +26,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## 💡 About me / Über mich
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Code-1-ai&show_icons=true&theme=dark&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-1-ai&layout=compact&theme=dark)
+🔭 Currently working on: **botUNIX** — AI-powered crypto trading bot  
+🌱 Learning: Advanced ML models & Reinforcement Learning for Trading  
+💬 Ask me about: Python, Flask, Algorithmic Trading, XGBoost, LightGBM  
 
 ---
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/DEIN-PROFIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasan-sahin-it-consultant/)
