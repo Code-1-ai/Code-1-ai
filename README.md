@@ -1,5 +1,4 @@
-# Hey, ich bin Hasan 👋
-# Hey, I'm Hasan 👋
+# Hey, I'm Hasan from Cologne👋
 
 🤖 AI & Algorithmic Trading Developer | KI & Algorithmischer Trading-Entwickler
 📍 Dortmund, Germany
