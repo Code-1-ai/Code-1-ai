@@ -1,11 +1,11 @@
 # Hey, I'm Hasan from Cologne👋
 
 🤖 AI & Algorithmic Trading Developer | KI & Algorithmischer Trading-Entwickler
-📍 Dortmund, Germany
+📍 Cologne, Germany
 
 ---
 
-## 🚀 Projekte / Projects
+## 🚀 Projects
 
 - 🔥 **[botUNIX](https://github.com/Code-1-ai/botUNIX-github)** — Flask-based crypto futures trading bot mit LightGBM Signals, Web-Dashboard & Docker
 - 🤖 **sol-trading-bot** — KI-basierter Trading Bot / AI-based Trading Bot
